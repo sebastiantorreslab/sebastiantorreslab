@@ -28,11 +28,7 @@ I´m continously learning.
 ![Fintech](https://img.shields.io/badge/Fintech-1d8a78?style=for-the-badge&logoColor=white&labelColor=black)
 ![B2B](https://img.shields.io/badge/B2B-0052cc?style=for-the-badge&logoColor=white&labelColor=black)
 
-## 🌱 Current Projects
-
 ## 🏗️ Working on: 
-
-
 <details>
 <summary><strong> autoskodagrupo.com: <a href="https://autoskodagrupo.com">autoskodagrupo project</a></strong></summary>
 - A virtual spare parts catalog to drive lead generation for a local auto repair business.
@@ -53,15 +49,12 @@ I´m continously learning.
 - A B2B project aimed at assisting companies in generating quotation requests efficiently.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
-
 <details>
 <summary>looking for:</summary>
 <ul>I am seeking opportunities for collaboration on Java development projects incorporating cloud technologies, both SQL and NoSQL databases, among other aspects.</ul>
 <ul>I am seeking assistance with CSS to enhance UX/UI design.</ul>
 </details>
-
-
-
+  
 ## 📫 Get in Touch
 
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/sebastiantorres2121/)
