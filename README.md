@@ -1,7 +1,6 @@
 ### Developer portafolio 🚀💸💡🎖️
 
-I'm a passionate web developer focusing in java , SOLID principles, design patterns for build *efficient applications that streamline the resolution of business problems*. 
-Here's a bit about me:
+I'm a passionate web developer focusing in java lenaguage , SOLID principles, design patterns for build **efficient applications that streamline the resolution of business problems.**
 
 ## 🚀 About Me
 
@@ -24,7 +23,7 @@ I
 ## 🌱 Current Projects
 
 - Working on [Project Name] - a [brief description]
-- 
+  
 - Exploring [Technology/Concept] for [Purpose/Project]
   
 - Currently learning ...
