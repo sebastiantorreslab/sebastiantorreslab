@@ -21,12 +21,12 @@ I´m continously learning.
 - **:arrows_clockwise: Version Control:**  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 - **:bulb: Others:**  ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-cloud&logoColor=green&labelColor=black) ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-007396?style=for-the-badge&labelColor=black) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-757575?style=for-the-badge&labelColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0170FE?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=black)
 
-## 💬 Ask me about ...
-
-
-
-
-I 
+## 🎯 Interested in
+![Investments](https://img.shields.io/badge/Investments-007bff?style=for-the-badge&logoColor=white&labelColor=black)
+![Saas](https://img.shields.io/badge/Saas-49aaff?style=for-the-badge&logoColor=white&labelColor=black)
+![Databases](https://img.shields.io/badge/Databases-49cc90?style=for-the-badge&logoColor=white&labelColor=black)
+![Fintech](https://img.shields.io/badge/Fintech-1d8a78?style=for-the-badge&logoColor=white&labelColor=black)
+![B2B](https://img.shields.io/badge/B2B-0052cc?style=for-the-badge&logoColor=white&labelColor=black)
 
 ## 🌱 Current Projects
 
