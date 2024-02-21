@@ -30,27 +30,27 @@ I´m continously learning.
 
 ### 🏗️ Working on: 
 <details>
-<summary><strong> autoskodagrupo.com: <a href="https://autoskodagrupo.com">autoskodagrupo project</a></strong></summary>
+<summary><strong> autoskodagrupo.com <a href="https://autoskodagrupo.com">autoskodagrupo project</a></strong></summary>
 - A virtual spare parts catalog to drive lead generation for a local auto repair business.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
 <details>
-<summary><strong> inventories project: </summary>
+<summary><strong> inventories project </summary>
 - Intelligent inventory management system integrating with related information databases to drive intelligent decision-making geared towards enhancing company profitability.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
 <details>
-<summary><strong> ticketing app: </summary>
+<summary><strong> ticketing app </summary>
 - Enterprise ticketing system for managing and resolving business requirements.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
 <details>
-<summary><strong> Quote generator: </summary>
+<summary><strong> Quote generator </summary>
 - A B2B project aimed at assisting companies in generating quotation requests efficiently.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
 <details>
-<summary>looking for:</summary>
+<summary>looking for</summary>
 <ul>I am seeking opportunities for collaboration on Java development projects incorporating cloud technologies, both SQL and NoSQL databases, among other aspects.</ul>
 <ul>I am seeking assistance with CSS to enhance UX/UI design.</ul>
 </details>
