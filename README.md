@@ -15,7 +15,7 @@ Here's a bit about me:
 - **Cloud Services:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - **Containerization:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- **Others:** ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-cloud) ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-007396?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-757575?style=for-the-badge)
+- **Others:** ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-cloud) ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-007396?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-757575?style=for-the-badge) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0170FE?style=for-the-badge&logo=github-actions&logoColor=white)
   
 ## 💬 Ask me about ...
 
