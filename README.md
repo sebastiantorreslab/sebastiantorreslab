@@ -40,16 +40,6 @@ I´m continously learning.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
 <details>
-<summary><strong> Ticketing app </summary>
-- Enterprise ticketing system for managing and resolving business requirements.
-- **stack:** Java, Spring Boot, MySQL, React, aws
-</details>
-<details>
-<summary><strong> Quote generator </summary>
-- A B2B project aimed at assisting companies in generating quotation requests efficiently.
-- **stack:** Java, Spring Boot, MySQL, React, aws
-</details>
-<details>
 <summary>Looking for</summary>
 <ul>I am seeking opportunities for collaboration on Java development projects incorporating cloud technologies, both SQL and NoSQL databases, among other aspects.</ul>
 <ul>I am seeking assistance with CSS to enhance UX/UI design.</ul>
