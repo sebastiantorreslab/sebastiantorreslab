@@ -36,8 +36,8 @@ I´m continously learning.
 </details>
 <details>
 <summary><strong> Inventories project </summary>
-- Intelligent inventory management system integrating with related information databases to drive intelligent decision-making geared towards enhancing company profitability.
-- **stack:** Java, Spring Boot, MySQL, React, aws
+- Intelligent inventory management system integrating with related information databases to drive intelligent decision-making about fixed assets.
+- **stack:** Python, Flask, Postgresql, SQLAlchemy.
 </details>
 <details>
 <summary>Looking for</summary>
