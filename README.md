@@ -30,7 +30,7 @@ I´m continously learning.
 
 ### 🏗️ Working on: 
 <details>
-<summary><strong> Autoskodagrupo project <a href="https://autoskodagrupo.com">autoskodagrupo.com</a></strong></summary>
+<summary><strong> Autoskodagrupo project ></strong></summary>
 - A virtual spare parts catalog to drive lead generation for a local auto repair business.
 - **stack:** Java, Spring Boot, MySQL, React, aws
 </details>
